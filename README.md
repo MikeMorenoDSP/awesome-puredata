@@ -2,10 +2,10 @@
 A curated list of resources for visual programming language Pure Data.
 
 ## Distributions
-– [Pd-Vanilla](http://msp.ucsd.edu/software.html) - main distribution, can install libraries through built in search tool, greater compatibility and performance.
-– [Purr Data](https://www.purrdata.net/) - More visually pleasing, has some libraries included, great for beginners.
-– [Pd-CEAMMC](https://github.com/uliss/pure-data/releases) - A Pd vanilla fork with a built-in library, tool bar and object list.
-– [Pd-next](https://github.com/sebshader/pdnext/releases/) - A Pd vanilla fork with color customization.
+- [Pd-Vanilla](http://msp.ucsd.edu/software.html) - main distribution, can install libraries through built in search tool, greater compatibility and performance.
+- [Purr Data](https://www.purrdata.net/) - More visually pleasing, has some libraries included, great for beginners.
+- [Pd-CEAMMC](https://github.com/uliss/pure-data/releases) - A Pd vanilla fork with a built-in library, tool bar and object list.
+- [Pd-next](https://github.com/sebshader/pdnext/releases/) - A Pd vanilla fork with color customization.
 
 ## Libraries
 - [else](https://github.com/porres/pd-else) - ELSE is a big library for Pure Data that provides a cohesive system for computer music, it also serves as a basis for an Live Electronics Tutorial by the same author, Alexandre Torres Porres.
