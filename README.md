@@ -6,12 +6,15 @@ A curated list of resources for visual programming language Pure Data.
 - [Purr Data](https://www.purrdata.net/) - More visually pleasing, has some libraries included, great for beginners.
 - [Pd-CEAMMC](https://github.com/uliss/pure-data/releases) - A Pd vanilla fork with a built-in library, tool bar and object list.
 - [Pd-next](https://github.com/sebshader/pdnext/releases/) - A Pd vanilla fork with color customization.
+- [La Malinette](http://malinette.info/en/?) - A more visual and modular version of Pd with custom abstractions.
 
 ## Libraries
 - [else](https://github.com/porres/pd-else) - ELSE is a big library for Pure Data that provides a cohesive system for computer music, it also serves as a basis for an Live Electronics Tutorial by the same author, Alexandre Torres Porres.
 - [CEAMMC](https://github.com/uliss/pure-data/releases) - General purpose Pd distribution and library used for work and education purposes in Centre of electoacoustic music of Moscow Conservatory (CEAMMC) and ZIL-electro studio.
 *This library has plenty of GUI objects such as Knobs, Arrays, Sliders, Waveform Displays, etc.*
 - [AudioLab](https://github.com/solipd/AudioLab) - A library of high level Pure Data abstractions with a focus on electroacoustic composition, live electronics and sound design.
+- [mmb](https://github.com/dotmmb/mmb) - A library of Pure Data abstractions, with anti aliased oscillators, filters, etc.
+- [Heavylib](https://github.com/enzienaudio/heavylib) - Library of Heavy compatible abstractions.
 
 ## Pd on Mobile Devices
 - [Pd Droid Party](https://droidparty.net/) - Run Pd patches on Android
