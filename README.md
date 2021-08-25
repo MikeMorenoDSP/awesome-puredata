@@ -24,7 +24,7 @@ A curated list of resources for visual programming language Pure Data.
 
 ## Pd as an audio-plugin
 - [Camomile](https://github.com/pierreguillot/Camomile/releases) - Camomile is a plugin with Pure Data embedded that allows to load and to control patches inside a digital audio workstation. The plugin is available in the VST2, VST3, Audio Unit and LV2 formats for Windows, Linux and MacOS.
-- [Camomile](https://github.com/porres/Camomile-ELSE/releases) - Camomile plugin compatible with the else library.
+- [Camomile ELSE](https://github.com/porres/Camomile-ELSE/releases) - Camomile plugin compatible with the else library.
 - [Heavy Compiler or hvcc](https://github.com/Wasted-Audio/hvcc) - hvcc is a python-based dataflow audio programming language compiler that generates C/C++ code and a variety of specific framework wrappers.
 *This compiler can generate the following: c, bela, fabric, js, pdext, unity, daisy, vst2, lv2, jack, wwise.*
 
