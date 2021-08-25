@@ -9,12 +9,13 @@ A curated list of resources for visual programming language Pure Data.
 - [La Malinette](http://malinette.info/en/?) - A more visual and modular version of Pd with custom abstractions.
 
 ## Libraries
-- [else](https://github.com/porres/pd-else) - ELSE is a big library for Pure Data that provides a cohesive system for computer music, it also serves as a basis for an Live Electronics Tutorial by the same author, Alexandre Torres Porres.
-- [CEAMMC](https://github.com/uliss/pure-data/releases) - General purpose Pd distribution and library used for work and education purposes in Centre of electoacoustic music of Moscow Conservatory (CEAMMC) and ZIL-electro studio.
+- [else](https://github.com/porres/pd-else) - (externals) ELSE is a big library for Pure Data that provides a cohesive system for computer music, it also serves as a basis for an Live Electronics Tutorial by the same author, Alexandre Torres Porres.
+- [CEAMMC](https://github.com/uliss/pure-data/releases) - (externals) General purpose Pd distribution and library used for work and education purposes in Centre of electoacoustic music of Moscow Conservatory (CEAMMC) and ZIL-electro studio.
+- [Cyclone](https://github.com/porres/pd-cyclone) - (externals) A set of Pure Data objects cloned from Max/MSP.
 *This library has plenty of GUI objects such as Knobs, Arrays, Sliders, Waveform Displays, etc.*
-- [AudioLab](https://github.com/solipd/AudioLab) - A library of high level Pure Data abstractions with a focus on electroacoustic composition, live electronics and sound design.
-- [mmb](https://github.com/dotmmb/mmb) - A library of Pure Data abstractions, with anti aliased oscillators, filters, etc.
-- [Heavylib](https://github.com/enzienaudio/heavylib) - Library of Heavy compatible abstractions.
+- [AudioLab](https://github.com/solipd/AudioLab) - (vanilla) A library of high level Pure Data abstractions with a focus on electroacoustic composition, live electronics and sound design.
+- [mmb](https://github.com/dotmmb/mmb) - (vanilla) A library of Pure Data abstractions, with anti aliased oscillators, filters, etc.
+- [Heavylib](https://github.com/enzienaudio/heavylib) - (vanilla) Library of Heavy compatible abstractions.
 
 ## Pd on Mobile Devices
 - [Pd Droid Party](https://droidparty.net/) - Run Pd patches on Android
