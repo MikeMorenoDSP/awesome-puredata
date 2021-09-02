@@ -22,6 +22,10 @@ A curated list of resources for visual programming language Pure Data.
 - [Pd Party](http://danomatika.com/code/pdparty) - Run Pd patches on iOS.
 - [MobMuPlat](https://danieliglesia.com/mobmuplat/) - Design interfaces and run patches on Pd patches on Android and iOS.
 
+## Tutorials
+- [Live Electronics Tutorial](https://github.com/porres/Live-Electronics-Tutorial) -  Live Electronics Tutorial with examples in Pure Data and the ELSE Library.
+*This tutorial presents theory and practice of Live Electronics topics without any prerequisite. It's aimed at newbies, dummies, enthusiasts and also experts.*
+
 ## Pd as an audio-plugin
 - [Camomile](https://github.com/pierreguillot/Camomile/releases) - Camomile is a plugin with Pure Data embedded that allows to load and to control patches inside a digital audio workstation. The plugin is available in the VST2, VST3, Audio Unit and LV2 formats for Windows, Linux and MacOS.
 - [Camomile ELSE](https://github.com/porres/Camomile-ELSE/releases) - Camomile plugin compatible with the else library.
