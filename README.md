@@ -18,6 +18,10 @@ A curated list of resources for visual programming language Pure Data.
 - [Heavylib](https://github.com/enzienaudio/heavylib) - (vanilla) Library of Heavy compatible abstractions.
 - [Deken Online](https://deken.puredata.info/) - Search pure data libraries online.
 
+## Pure Data plugins
+- [Completion plugin](https://github.com/HenriAugusto/completion-plugin) - This Gui-Plugin enables auto-completion for pure-data objects.
+- [PUnIsH](https://git.iem.at/pd/punish) - Pure Data User Interface Hacks.
+
 ## Pd on Mobile Devices
 - [Pd Droid Party](https://droidparty.net/) - Run Pd patches on Android
 - [Pd Party](http://danomatika.com/code/pdparty) - Run Pd patches on iOS.
@@ -26,6 +30,7 @@ A curated list of resources for visual programming language Pure Data.
 ## Tutorials
 - [Live Electronics Tutorial](https://github.com/porres/Live-Electronics-Tutorial) -  Live Electronics Tutorial with examples in Pure Data and the ELSE Library.
 *This tutorial presents theory and practice of Live Electronics topics without any prerequisite. It's aimed at newbies, dummies, enthusiasts and also experts.*
+- [Programming Electronic Music in Pd](http://pd-tutorial.com/) - Simple tutorial website on many types of synthesis in pure data.
 
 ## Pd as an audio-plugin
 - [Camomile](https://github.com/pierreguillot/Camomile/releases) - Camomile is a plugin with Pure Data embedded that allows to load and to control patches inside a digital audio workstation. The plugin is available in the VST2, VST3, Audio Unit and LV2 formats for Windows, Linux and MacOS.
@@ -35,3 +40,6 @@ A curated list of resources for visual programming language Pure Data.
 
 ## Community
 - [Pd Discord Server](https://discord.gg/aNd8RrT)
+- [Pd Forum](https://forum.pdpatchrepo.info/)
+- [Pd Facebook Group](https://www.facebook.com/groups/puredata)
+- [Pd Reedit](https://www.reddit.com/r/puredata/)
