@@ -16,6 +16,7 @@ A curated list of resources for visual programming language Pure Data.
 - [AudioLab](https://github.com/solipd/AudioLab) - (vanilla) A library of high level Pure Data abstractions with a focus on electroacoustic composition, live electronics and sound design.
 - [mmb](https://github.com/dotmmb/mmb) - (vanilla) A library of Pure Data abstractions, with anti aliased oscillators, filters, etc.
 - [Heavylib](https://github.com/enzienaudio/heavylib) - (vanilla) Library of Heavy compatible abstractions.
+- [Deken Online](https://deken.puredata.info/) - Search pure data libraries online.
 
 ## Pd on Mobile Devices
 - [Pd Droid Party](https://droidparty.net/) - Run Pd patches on Android
