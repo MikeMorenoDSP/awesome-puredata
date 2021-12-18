@@ -18,9 +18,17 @@ A curated list of resources for visual programming language Pure Data.
 - [Heavylib](https://github.com/enzienaudio/heavylib) - (vanilla) Library of Heavy compatible abstractions.
 - [Deken Online](https://deken.puredata.info/) - Search pure data libraries online.
 
+## Audiovisual Libraries
+- [Gem](https://github.com/umlaeute/Gem) - Graphics Environment for Multimedia.
+- [Ofelia](https://github.com/cuinjune/Ofelia) - Ofelia is a Pd external which allows you to use openFrameworks and Lua within a real-time visual programming environment for creating audiovisual artwork or multimedia applications such as games.
+
 ## Pure Data plugins
 - [Completion plugin](https://github.com/HenriAugusto/completion-plugin) - This Gui-Plugin enables auto-completion for pure-data objects.
 - [PUnIsH](https://git.iem.at/pd/punish) - Pure Data User Interface Hacks.
+- [Keyboard Navigation/patching](https://github.com/pure-data/pure-data/pull/869) - This is a prototype branch that allows you to fully navigate and connect your patches with the keyboard.
+
+## Pd as on the Web
+- [Pd Web Party](https://github.com/cuinjune/PdWebParty) - An app that allows Pd users to run patches in a web browser and share them with a web link.
 
 ## Pd on Mobile Devices
 - [Pd Droid Party](https://droidparty.net/) - Run Pd patches on Android
