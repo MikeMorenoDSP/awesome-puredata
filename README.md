@@ -27,18 +27,20 @@ A curated list of resources for visual programming language Pure Data.
 - [PUnIsH](https://git.iem.at/pd/punish) - Pure Data User Interface Hacks.
 - [Keyboard Navigation/patching](https://github.com/pure-data/pure-data/pull/869) - This is a prototype branch that allows you to fully navigate and connect your patches with the keyboard.
 
-## Pd as on the Web
+## Pd on the Web
 - [Pd Web Party](https://github.com/cuinjune/PdWebParty) - An app that allows Pd users to run patches in a web browser and share them with a web link.
+- [WebPd](https://github.com/sebpiq/WebPd) - WebPd is a 100% JavaScript Pure Data runtime using Web Audio API to play audio in the browser.
 
 ## Pd on Mobile Devices
 - [Pd Droid Party](https://droidparty.net/) - Run Pd patches on Android
 - [Pd Party](http://danomatika.com/code/pdparty) - Run Pd patches on iOS.
 - [MobMuPlat](https://danieliglesia.com/mobmuplat/) - Design interfaces and run patches on Pd patches on Android and iOS.
 
-## Tutorials
-- [Live Electronics Tutorial](https://github.com/porres/Live-Electronics-Tutorial) -  Live Electronics Tutorial with examples in Pure Data and the ELSE Library.
+## Tutorials & Books
+- [Live Electronics Tutorial - Alexandre Porres](https://github.com/porres/Live-Electronics-Tutorial) -  Live Electronics Tutorial with examples in Pure Data and the ELSE Library.
 *This tutorial presents theory and practice of Live Electronics topics without any prerequisite. It's aimed at newbies, dummies, enthusiasts and also experts.*
-- [Programming Electronic Music in Pd](http://pd-tutorial.com/) - Simple tutorial website on many types of synthesis in pure data.
+- [Programming Electronic Music in Pd - Johannes Kreidler](http://pd-tutorial.com/) - Simple tutorial website on many types of synthesis in pure data.
+- [The theory and technique of Electronic Music - Miller Puckette](http://msp.ucsd.edu/techniques.htm) - a uniquely complete source of information for the computer synthesis of rich and interesting musical timbres.
 
 ## Pd as an audio-plugin
 - [Camomile](https://github.com/pierreguillot/Camomile/releases) - Camomile is a plugin with Pure Data embedded that allows to load and to control patches inside a digital audio workstation. The plugin is available in the VST2, VST3, Audio Unit and LV2 formats for Windows, Linux and MacOS.
