@@ -5,14 +5,14 @@ A curated list of resources for visual programming language Pure Data.
 - [Pd-Vanilla](http://msp.ucsd.edu/software.html) - main distribution, can install libraries through built in search tool, greater compatibility and performance.
 - [Purr Data](https://www.purrdata.net/) - More visually pleasing, has some libraries included, great for beginners.
 - [Purr Data in a web browser](https://purrdata.glitch.me/) - A graphical programming environment in a web browser.
-- [Pd-CEAMMC](https://github.com/uliss/pure-data/releases) - A Pd vanilla fork with a built-in library, tool bar and object list.
+- [Pd-CEAMMC](https://github.com/uliss/pure-data/releases) - A Pd vanilla fork with a built-in libraries, tool bar and object list, also great for beginners.
 - [Pd-next](https://github.com/sebshader/pdnext/releases/) - A Pd vanilla fork with color customization.
-- [La Malinette](http://malinette.info/en/?) - A more visual and modular version of Pd with custom abstractions.
+- [La Malinette](http://malinette.info/en/?) - A more visual, french and modular version of Pd with custom abstractions.
 
 ## Libraries & externals
 - [else](https://github.com/porres/pd-else) - (externals) ELSE is a big library for Pure Data that provides a cohesive system for computer music, it also serves as a basis for an Live Electronics Tutorial by the same author, Alexandre Torres Porres.
 - [CEAMMC](https://github.com/uliss/pure-data/releases) - (externals) General purpose Pd distribution and library used for work and education purposes in Centre of electoacoustic music of Moscow Conservatory (CEAMMC) and ZIL-electro studio. *This library has plenty of GUI objects such as Knobs, Arrays, Sliders, Waveform Displays, etc.*
-- [Pd Spectral Toolkit](http://www.cooperbaker.com/home/code/pd%20spectral%20toolkit/) - The Pd Spectral Toolkit facilitates frequency domain signal processing with a family of spectral transformation, calculation, and data manipulation objects.
+- [Pd Spectral Toolkit](http://www.cooperbaker.com/home/code/pd%20spectral%20toolkit/) - (externals) The Pd Spectral Toolkit facilitates frequency domain signal processing with a family of spectral transformation, calculation, and data manipulation objects.
 - [Cyclone](https://github.com/porres/pd-cyclone) - (externals) A set of Pure Data objects cloned from Max/MSP.
 - [timbreID](https://github.com/wbrent/timbreID) - (externals)  An audio analysis library for Pure Data.
 - [AudioLab](https://github.com/solipd/AudioLab) - (vanilla) A library of high level Pure Data abstractions with a focus on electroacoustic composition, live electronics and sound design.
