@@ -4,15 +4,17 @@ A curated list of resources for visual programming language Pure Data.
 ## Distributions
 - [Pd-Vanilla](http://msp.ucsd.edu/software.html) - main distribution, can install libraries through built in search tool, greater compatibility and performance.
 - [Purr Data](https://www.purrdata.net/) - More visually pleasing, has some libraries included, great for beginners.
+- [Purr Data in a web browser](https://purrdata.glitch.me/) - A graphical programming environment in a web browser.
 - [Pd-CEAMMC](https://github.com/uliss/pure-data/releases) - A Pd vanilla fork with a built-in library, tool bar and object list.
 - [Pd-next](https://github.com/sebshader/pdnext/releases/) - A Pd vanilla fork with color customization.
 - [La Malinette](http://malinette.info/en/?) - A more visual and modular version of Pd with custom abstractions.
 
-## Libraries
+## Libraries & externals
 - [else](https://github.com/porres/pd-else) - (externals) ELSE is a big library for Pure Data that provides a cohesive system for computer music, it also serves as a basis for an Live Electronics Tutorial by the same author, Alexandre Torres Porres.
-- [CEAMMC](https://github.com/uliss/pure-data/releases) - (externals) General purpose Pd distribution and library used for work and education purposes in Centre of electoacoustic music of Moscow Conservatory (CEAMMC) and ZIL-electro studio.
+- [CEAMMC](https://github.com/uliss/pure-data/releases) - (externals) General purpose Pd distribution and library used for work and education purposes in Centre of electoacoustic music of Moscow Conservatory (CEAMMC) and ZIL-electro studio. *This library has plenty of GUI objects such as Knobs, Arrays, Sliders, Waveform Displays, etc.*
+- [Pd Spectral Toolkit](http://www.cooperbaker.com/home/code/pd%20spectral%20toolkit/) - The Pd Spectral Toolkit facilitates frequency domain signal processing with a family of spectral transformation, calculation, and data manipulation objects.
 - [Cyclone](https://github.com/porres/pd-cyclone) - (externals) A set of Pure Data objects cloned from Max/MSP.
-*This library has plenty of GUI objects such as Knobs, Arrays, Sliders, Waveform Displays, etc.*
+- [timbreID](https://github.com/wbrent/timbreID) - (externals)  An audio analysis library for Pure Data.
 - [AudioLab](https://github.com/solipd/AudioLab) - (vanilla) A library of high level Pure Data abstractions with a focus on electroacoustic composition, live electronics and sound design.
 - [mmb](https://github.com/dotmmb/mmb) - (vanilla) A library of Pure Data abstractions, with anti aliased oscillators, filters, etc.
 - [Heavylib](https://github.com/enzienaudio/heavylib) - (vanilla) Library of Heavy compatible abstractions.
@@ -22,7 +24,7 @@ A curated list of resources for visual programming language Pure Data.
 - [Gem](https://github.com/umlaeute/Gem) - Graphics Environment for Multimedia.
 - [Ofelia](https://github.com/cuinjune/Ofelia) - Ofelia is a Pd external which allows you to use openFrameworks and Lua within a real-time visual programming environment for creating audiovisual artwork or multimedia applications such as games.
 
-## Pure Data plugins
+## Plug-ins for Pd
 - [Completion plugin](https://github.com/HenriAugusto/completion-plugin) - This Gui-Plugin enables auto-completion for pure-data objects.
 - [PUnIsH](https://git.iem.at/pd/punish) - Pure Data User Interface Hacks.
 - [Keyboard Navigation/patching](https://github.com/pure-data/pure-data/pull/869) - This is a prototype branch that allows you to fully navigate and connect your patches with the keyboard.
@@ -48,8 +50,19 @@ A curated list of resources for visual programming language Pure Data.
 - [Heavy Compiler or hvcc](https://github.com/Wasted-Audio/hvcc) - hvcc is a python-based dataflow audio programming language compiler that generates C/C++ code and a variety of specific framework wrappers.
 *This compiler can generate the following: c, bela, fabric, js, pdext, unity, daisy, vst2, lv2, jack, wwise.*
 
+## Pure Data external development & scripting
+- [Externals howto](https://github.com/pure-data/externals-howto) -  How-To write externals for Pd.
+- [Flext](https://github.com/grrrr/flext) - C++ development layer for Pure Data and Max.
+- [Py](https://github.com/grrrr/py) - Python scripting objects for Pure Data and Max.
+- [Pd-lua](https://github.com/agraef/pd-lua) - Lua bindings for Pd, updated for Lua 5.3+.
+- [Scheme for pd](https://github.com/iainctduncan/scheme-for-pd) - open-source external for live-coding and scripting Pd with an embedded s7 Scheme Lisp interpreter.
+- [CICM Wrapper](https://github.com/CICM/CicmWrapper) -  A C/TK library that aims to facilitate the creation of objects for Pure Data.
+- [faustgen2](https://github.com/agraef/pd-faustgen) -  The FAUST compiler in a box.
+
+
 ## Community
 - [Pd Discord Server](https://discord.gg/aNd8RrT)
 - [Pd Forum](https://forum.pdpatchrepo.info/)
+- [Pd Telegram Group](https://telegram.me/puredata)
 - [Pd Facebook Group](https://www.facebook.com/groups/puredata)
 - [Pd Reedit](https://www.reddit.com/r/puredata/)
