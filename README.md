@@ -52,6 +52,7 @@ A curated list of resources for visual programming language Pure Data.
 
 ## Pure Data external development & scripting
 - [Externals howto](https://github.com/pure-data/externals-howto) -  How-To write externals for Pd.
+- [DAO for Max and Pd](https://github.com/juandagilc/DAO-MaxMSP-Pd) - Collection of Max/MSP and Pd externals developed from the explanations in the book "Designing Audio Objects for Max/MSP and Pd" by Eric Lyon.
 - [Flext](https://github.com/grrrr/flext) - C++ development layer for Pure Data and Max.
 - [Py](https://github.com/grrrr/py) - Python scripting objects for Pure Data and Max.
 - [Pd-lua](https://github.com/agraef/pd-lua) - Lua bindings for Pd, updated for Lua 5.3+.
