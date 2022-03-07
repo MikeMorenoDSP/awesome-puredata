@@ -44,6 +44,13 @@ A curated list of resources for visual programming language Pure Data.
 - [Programming Electronic Music in Pd - Johannes Kreidler](http://pd-tutorial.com/) - Simple tutorial website on many types of synthesis in pure data.
 - [The theory and technique of Electronic Music - Miller Puckette](http://msp.ucsd.edu/techniques.htm) - a uniquely complete source of information for the computer synthesis of rich and interesting musical timbres.
 
+## Pd on Youtube
+- [SoundSimulator](https://www.youtube.com/c/SoundSimulator/videos) - engaging videos about pure data for beginners.
+- [Acreil](https://www.youtube.com/user/acreil) - musician and composer using Pure Data.
+- [via](https://www.youtube.com/channel/UCm4AzqIgMBFVT5g7X3U-niw/videos) - custom music systems in Purr Data with great music.
+- [rinotv](https://youtu.be/I9_3CfRm8GE) - Convoluted patches, but awesome music.
+- [Jacopo Lovatello](https://www.youtube.com/c/JacopoLovatello/videos) - Modular Pure Data systems.
+
 ## Pd as an audio-plugin
 - [Camomile](https://github.com/pierreguillot/Camomile/releases) - Camomile is a plugin with Pure Data embedded that allows to load and to control patches inside a digital audio workstation. The plugin is available in the VST2, VST3, Audio Unit and LV2 formats for Windows, Linux and MacOS.
 - [Camomile ELSE](https://github.com/porres/Camomile-ELSE/releases) - Camomile plugin compatible with the else library.
