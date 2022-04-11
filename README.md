@@ -29,33 +29,29 @@ A curated list of resources for visual programming language Pure Data.
 - [PUnIsH](https://git.iem.at/pd/punish) - Pure Data User Interface Hacks.
 - [Keyboard Navigation/patching](https://github.com/pure-data/pure-data/pull/869) - This is a prototype branch that allows you to fully navigate and connect your patches with the keyboard.
 
-## Pd on the Web
-- [Pd Web Party](https://github.com/cuinjune/PdWebParty) - An app that allows Pd users to run patches in a web browser and share them with a web link.
-- [WebPd](https://github.com/sebpiq/WebPd) - WebPd is a 100% JavaScript Pure Data runtime using Web Audio API to play audio in the browser.
-
-## Pd on Mobile Devices
-- [Pd Droid Party](https://droidparty.net/) - Run Pd patches on Android
-- [Pd Party](http://danomatika.com/code/pdparty) - Run Pd patches on iOS.
-- [MobMuPlat](https://danieliglesia.com/mobmuplat/) - Design interfaces and run patches on Pd patches on Android and iOS.
-
 ## Tutorials & Books
 - [Live Electronics Tutorial - Alexandre Porres](https://github.com/porres/Live-Electronics-Tutorial) -  Live Electronics Tutorial with examples in Pure Data and the ELSE Library.
 *This tutorial presents theory and practice of Live Electronics topics without any prerequisite. It's aimed at newbies, dummies, enthusiasts and also experts.*
 - [Programming Electronic Music in Pd - Johannes Kreidler](http://pd-tutorial.com/) - Simple tutorial website on many types of synthesis in pure data.
 - [The theory and technique of Electronic Music - Miller Puckette](http://msp.ucsd.edu/techniques.htm) - a uniquely complete source of information for the computer synthesis of rich and interesting musical timbres.
 
-## Pd on Youtube
-- [SoundSimulator](https://www.youtube.com/c/SoundSimulator/videos) - engaging videos about pure data for beginners.
-- [Acreil](https://www.youtube.com/user/acreil) - musician and composer using Pure Data.
-- [via](https://www.youtube.com/channel/UCm4AzqIgMBFVT5g7X3U-niw/videos) - custom music systems in Purr Data with great music.
-- [rinotv](https://youtu.be/I9_3CfRm8GE) - Convoluted patches, but awesome music.
-- [Jacopo Lovatello](https://www.youtube.com/c/JacopoLovatello/videos) - Modular Pure Data systems.
-
 ## Pd as an audio-plugin
 - [Camomile](https://github.com/pierreguillot/Camomile/releases) - Camomile is a plugin with Pure Data embedded that allows to load and to control patches inside a digital audio workstation. The plugin is available in the VST2, VST3, Audio Unit and LV2 formats for Windows, Linux and MacOS.
 - [Camomile ELSE](https://github.com/porres/Camomile-ELSE/releases) - Camomile plugin compatible with the else library.
 - [Heavy Compiler or hvcc](https://github.com/Wasted-Audio/hvcc) - hvcc is a python-based dataflow audio programming language compiler that generates C/C++ code and a variety of specific framework wrappers.
 *This compiler can generate the following: c, bela, fabric, js, pdext, unity, daisy, vst2, lv2, jack, wwise.*
+- [PlugData](https://github.com/timothyschoen/PlugData) - Plugin wrapper around PureData to allow patching in a wide selection of DAWs.
+
+## Pd on Mobile Devices
+- [Pd Droid Party](https://droidparty.net/) - Run Pd patches on Android
+- [Pd Party](http://danomatika.com/code/pdparty) - Run Pd patches on iOS.
+- [MobMuPlat](https://danieliglesia.com/mobmuplat/) - Design interfaces and run patches on Pd patches on Android and iOS.
+
+## Pd on the Web
+- [Pd Web Party](https://github.com/cuinjune/PdWebParty) - An app that allows Pd users to run patches in a web browser and share them with a web link.
+- [WebPd](https://github.com/sebpiq/WebPd) - WebPd is a 100% JavaScript Pure Data runtime using Web Audio API to play audio in the browser.
+- [empd](https://mathr.co.uk/empd/) - Pure-data compiled with Emscripten.
+- [Pure-Data-Ofelia-Emscripten](https://github.com/Jonathhhan/Pure-Data-Ofelia-Emscripten) -  A Collection of Pure Data / Ofelia Patches for compiling with Emscripten 
 
 ## Pure Data external development & scripting
 - [Externals howto](https://github.com/pure-data/externals-howto) -  How-To write externals for Pd.
@@ -67,6 +63,12 @@ A curated list of resources for visual programming language Pure Data.
 - [CICM Wrapper](https://github.com/CICM/CicmWrapper) -  A C/TK library that aims to facilitate the creation of objects for Pure Data.
 - [faustgen2](https://github.com/agraef/pd-faustgen) -  The FAUST compiler in a box.
 
+## Pd on Youtube
+- [SoundSimulator](https://www.youtube.com/c/SoundSimulator/videos) - engaging videos about pure data for beginners.
+- [Acreil](https://www.youtube.com/user/acreil) - musician and composer using Pure Data.
+- [via](https://www.youtube.com/channel/UCm4AzqIgMBFVT5g7X3U-niw/videos) - custom music systems in Purr Data with great music.
+- [rinotv](https://youtu.be/I9_3CfRm8GE) - Convoluted patches, but awesome music.
+- [Jacopo Lovatello](https://www.youtube.com/c/JacopoLovatello/videos) - Modular Pure Data systems.
 
 ## Community
 - [Pd Discord Server](https://discord.gg/aNd8RrT)
@@ -74,3 +76,8 @@ A curated list of resources for visual programming language Pure Data.
 - [Pd Telegram Group](https://telegram.me/puredata)
 - [Pd Facebook Group](https://www.facebook.com/groups/puredata)
 - [Pd Reedit](https://www.reddit.com/r/puredata/)
+
+## Pd as a collaborative platform
+- [Kiwi](https://github.com/Musicoll/Kiwi) - Kiwi is a graphical programming environment dedicated to music and sound creation, such as Max or Pure Data softwares, but offering a real-time collaborative approach: Kiwi allows several distant users to work simultaneously on the same patch hosted online.
+- [Collab Hub](https://github.com/Collab-Hub-io/Collab-Hub-Pd-Client) - The Collab-Hub Pd Client is a tool designed to faciliate communication with the Collab-Hub server from within Pd. This client will help you send/receive data over the internet between Pd and/or other platforms.
+- [netpd](https://github.com/reduzent/netpd) - is a CRNMME (Collaborative Realtime Networked Music Making Environment) written in Pure Data. It allows many users to have a real time jam sessions with each other, connected over the internet
