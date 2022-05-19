@@ -55,6 +55,7 @@ A curated list of resources for visual programming language Pure Data.
 
 ## Pd for other software
 - [Ossia](https://ossia.io/) - cross-platform sequencer compatible with Max, Pd, OpenFrameworks, Processing...
+- [LibPd Unity](https://github.com/LibPdIntegration/LibPdIntegration) - LibPd for Unity.
 
 ## Pure Data external development & scripting
 - [Externals howto](https://github.com/pure-data/externals-howto) -  How-To write externals for Pd.
