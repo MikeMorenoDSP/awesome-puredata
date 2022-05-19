@@ -53,6 +53,9 @@ A curated list of resources for visual programming language Pure Data.
 - [empd](https://mathr.co.uk/empd/) - Pure-data compiled with Emscripten.
 - [Pure-Data-Ofelia-Emscripten](https://github.com/Jonathhhan/Pure-Data-Ofelia-Emscripten) -  A Collection of Pure Data / Ofelia Patches for compiling with Emscripten 
 
+## Pd for other software
+- [Ossia](https://ossia.io/) - cross-platform sequencer compatible with Max, Pd, OpenFrameworks, Processing...
+
 ## Pure Data external development & scripting
 - [Externals howto](https://github.com/pure-data/externals-howto) -  How-To write externals for Pd.
 - [DAO for Max and Pd](https://github.com/juandagilc/DAO-MaxMSP-Pd) - Collection of Max/MSP and Pd externals developed from the explanations in the book "Designing Audio Objects for Max/MSP and Pd" by Eric Lyon.
