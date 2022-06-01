@@ -67,12 +67,15 @@ A curated list of resources for visual programming language Pure Data.
 - [CICM Wrapper](https://github.com/CICM/CicmWrapper) -  A C/TK library that aims to facilitate the creation of objects for Pure Data.
 - [faustgen2](https://github.com/agraef/pd-faustgen) -  The FAUST compiler in a box.
 
-## Pd on Youtube
-- [SoundSimulator](https://www.youtube.com/c/SoundSimulator/videos) - engaging videos about pure data for beginners.
+## Pd on Youtube: Tutorials & Music
+- [SoundSimulator](https://www.youtube.com/c/SoundSimulator/videos) - engaging videos about pure data for beginners and enthusiasts.
 - [Acreil](https://www.youtube.com/user/acreil) - musician and composer using Pure Data.
 - [via](https://www.youtube.com/channel/UCm4AzqIgMBFVT5g7X3U-niw/videos) - custom music systems in Purr Data with great music.
 - [rinotv](https://youtu.be/I9_3CfRm8GE) - Convoluted patches, but awesome music.
 - [Jacopo Lovatello](https://www.youtube.com/c/JacopoLovatello/videos) - Modular Pure Data systems.
+- [Skueue Music](https://www.youtube.com/channel/UCcCt-zr8pbQedZym0UvSBnQ/videos) - IDM algorithmic and generative music made with Pure data.
+- [Fahmi M.](https://www.youtube.com/c/ideologikal/videos) - Music made with automatonism (Pd).
+- [Giorgio Sancristoforo](https://youtu.be/U_w2NXq62mU) - Some music made in Pd.
 
 ## Community
 - [Pd Discord Server](https://discord.gg/aNd8RrT)
