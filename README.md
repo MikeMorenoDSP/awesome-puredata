@@ -70,6 +70,7 @@ A curated list of resources for visual programming language Pure Data.
 ## Pd on Youtube: Tutorials & Music
 - [Cheeto Moskeeto](https://www.youtube.com/concertmusic/videos) - tutorials on learning Pd and develiping externals in Pd.
 - [SoundSimulator](https://www.youtube.com/c/SoundSimulator/videos) - engaging videos about pure data for beginners and enthusiasts.
+- [Really Useful Plugins](https://www.youtube.com/channel/UCeemOWHUMcAc5vIPI9x05PQ/featured) - Pd and max tutorials on synthesizer and drum machine patches.
 - [Acreil](https://www.youtube.com/user/acreil) - musician and composer using Pure Data.
 - [via](https://www.youtube.com/channel/UCm4AzqIgMBFVT5g7X3U-niw/videos) - custom music systems in Purr Data with great music.
 - [rinotv](https://youtu.be/I9_3CfRm8GE) - Convoluted patches, but awesome music.
