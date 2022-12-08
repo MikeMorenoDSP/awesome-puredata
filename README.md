@@ -15,6 +15,7 @@ A curated list of resources for visual programming language Pure Data.
 - [Pd Spectral Toolkit](http://www.cooperbaker.com/home/code/pd%20spectral%20toolkit/) - (externals) The Pd Spectral Toolkit facilitates frequency domain signal processing with a family of spectral transformation, calculation, and data manipulation objects.
 - [Cyclone](https://github.com/porres/pd-cyclone) - (externals) A set of Pure Data objects cloned from Max/MSP.
 - [timbreID](https://github.com/wbrent/timbreID) - (externals)  An audio analysis library for Pure Data.
+- [fftease](https://github.com/ericlyon/pd-fftease) - (externals) FFTease is a collection of objects designed to facilitate spectral sound processing in Max and Pd.
 - [AudioLab](https://github.com/solipd/AudioLab) - (vanilla) A library of high level Pure Data abstractions with a focus on electroacoustic composition, live electronics and sound design.
 - [mmb](https://github.com/dotmmb/mmb) - (vanilla) A library of Pure Data abstractions, with anti aliased oscillators, filters, etc.
 - [Heavylib](https://github.com/enzienaudio/heavylib) - (vanilla) Library of Heavy compatible abstractions.
