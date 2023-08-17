@@ -4,6 +4,7 @@ A curated list of resources for visual programming language Pure Data.
 ## Distributions
 - [Pd-Vanilla](http://msp.ucsd.edu/software.html) - main distribution, can install libraries through built in search tool, greater compatibility and performance.
 - [Purr Data](https://www.purrdata.net/) - More visually pleasing, has some libraries included, great for beginners.
+- [PlugData](https://github.com/timothyschoen/PlugData) - Pure Data ala Max MSP with cyclone and else libraries included.
 - [Purr Data in a web browser](https://purrdata.glitch.me/) - A graphical programming environment in a web browser.
 - [Pd-CEAMMC](https://github.com/uliss/pure-data/releases) - A Pd vanilla fork with a built-in libraries, tool bar and object list, also great for beginners.
 - [Pd-next](https://github.com/sebshader/pdnext/releases/) - A Pd vanilla fork with color customization.
@@ -12,6 +13,7 @@ A curated list of resources for visual programming language Pure Data.
 ## Libraries & externals
 - [else](https://github.com/porres/pd-else) - (externals) ELSE is a big library for Pure Data that provides a cohesive system for computer music, it also serves as a basis for an Live Electronics Tutorial by the same author, Alexandre Torres Porres.
 - [CEAMMC](https://github.com/uliss/pure-data/releases) - (externals) General purpose Pd distribution and library used for work and education purposes in Centre of electoacoustic music of Moscow Conservatory (CEAMMC) and ZIL-electro studio. *This library has plenty of GUI objects such as Knobs, Arrays, Sliders, Waveform Displays, etc.*
+- [Flucoma](https://www.flucoma.org/download/) - (externals) For programmatic sound bank exploration via machine listening and machine learning algorithms
 - [Pd Spectral Toolkit](http://www.cooperbaker.com/home/code/pd%20spectral%20toolkit/) - (externals) The Pd Spectral Toolkit facilitates frequency domain signal processing with a family of spectral transformation, calculation, and data manipulation objects.
 - [Cyclone](https://github.com/porres/pd-cyclone) - (externals) A set of Pure Data objects cloned from Max/MSP.
 - [timbreID](https://github.com/wbrent/timbreID) - (externals)  An audio analysis library for Pure Data.
@@ -29,6 +31,7 @@ A curated list of resources for visual programming language Pure Data.
 - [Completion plugin](https://github.com/HenriAugusto/completion-plugin) - This Gui-Plugin enables auto-completion for pure-data objects.
 - [PUnIsH](https://git.iem.at/pd/punish) - Pure Data User Interface Hacks.
 - [Keyboard Navigation/patching](https://github.com/pure-data/pure-data/pull/869) - This is a prototype branch that allows you to fully navigate and connect your patches with the keyboard.
+- [patch2svg](https://git.iem.at/pd/patch2svg-plugin) - Save the current Pd patch as an SVG graphics.
 
 ## Tutorials & Books
 - [Live Electronics Tutorial - Alexandre Porres](https://github.com/porres/Live-Electronics-Tutorial) -  Live Electronics Tutorial with examples in Pure Data and the ELSE Library.
