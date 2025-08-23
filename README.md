@@ -82,6 +82,7 @@ A curated list of resources for visual programming language Pure Data.
 - [Skueue Music](https://www.youtube.com/channel/UCcCt-zr8pbQedZym0UvSBnQ/videos) - IDM algorithmic and generative music made with Pure data.
 - [Fahmi M.](https://www.youtube.com/c/ideologikal/videos) - Music made with automatonism (Pd).
 - [Giorgio Sancristoforo](https://youtu.be/U_w2NXq62mU) - Some music made in Pd.
+- [AlexAtheos](https://www.youtube.com/channel/UCS0FnocF6HyidAlfqevbs4g) - Videogame-esque music in Pd.
 
 ## Community
 - [Pd Discord Server](https://discord.gg/aNd8RrT)
